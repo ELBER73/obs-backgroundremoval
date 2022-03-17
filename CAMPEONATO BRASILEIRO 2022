@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia clube[][]={{"Vasco","38"},{"Flamengo","87"},{"Botafogo","51"},{"Palmeiras","60"}}
+		escreva ("Time: ")
+		escreva (clube[1][0] + "\n")
+		escreva ("Pontos: ")
+		escreva (clube[1][1] + "\n")
+		escreva ("Parabéns Flamengo. Campeão 2022!!" + "\n")
+		escreva  ("Só lembrando: O Palmeiras não tem mundial!!!")
+	
+}}
